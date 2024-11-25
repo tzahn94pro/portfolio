@@ -1,8 +1,9 @@
 # Mein Portfolio-Projekt
 
-- TO DO: Das Menü erstellen 
+Hier erstelle ich eine Portfolioseite. Diese wird verschiedene Unterpunkte beinhalten, die ich im Folgenden vorstellen werde. Zuallererst sei das Menü zu erwähnen. Dieses wird im nächsten Unterpunkt beschrieben.
 
+## Menü
 
-## Unterseiten
+## Weitere Punkte
 
 
